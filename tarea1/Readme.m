@@ -1,9 +1,9 @@
 
-#Rimas 
+# Rimas 
 
-  ##Encontrar las palabras que terminan las letras dadas
+  ## Encontrar las palabras que terminan las letras dadas
 
-   ##A partir de lo anterior realice una aplicación (sorpréndame)
+   ## A partir de lo anterior realice una aplicación (sorpréndame)
 
 _Procesos desarrollados_ 
 
