@@ -1,3 +1,4 @@
+
 # Desarrollo de la tarea de investigación de librerías.
 
 
@@ -5,29 +6,31 @@ Python es un lenguaje de programación de alto nivel, interpretado y de propósi
 Python es un lenguaje multiparadigma, ya que admite diferentes estilos de programación, incluyendo la programación orientada a objetos, la programación imperativa y, en menor medida, la programación funcional. Su capacidad de tipado dinámico y su gestión automática de memoria lo hacen un lenguaje flexible y fácil de usar en diversos contextos. Además, es multiplataforma, lo que significa que el mismo código puede ejecutarse en distintos sistemas operativos sin necesidad de compilación previa. 
 
 
-❖ Ejemplos y Aplicaciones de Python 
+_❖ Ejemplos y Aplicaciones de Python_ 
 
-❖ Desarrollo Web 
+_❖ Desarrollo Web_ 
 
 ➢ Uso de frameworks como Django y Flask para crear aplicaciones web dinámicas y escalables. 
 ➢ Creación de API REST para conectar sistemas y servicios. 
-❖ Ciencia de Datos y Análisis 
+
+_❖ Ciencia de Datos y Análisis_
+
 ➢ Uso de bibliotecas como Pandas y NumPy para manipulación de datos. ➢ Creación de gráficos y visualizaciones con Matplotlib y Seaborn.
 ➢ Análisis de grandes volúmenes de datos y modelado estadístico. 
 
-❖ Inteligencia Artificial y Aprendizaje Automático 
+_❖ Inteligencia Artificial y Aprendizaje Automático_
 
 ➢ Implementación de redes neuronales con TensorFlow y PyTorch. 
 ➢ Procesamiento de lenguaje natural con NLTK y spaCy. 
 ➢ Creación de chatbots y asistentes virtuales. 
 
-❖ Automatización y Scripting 
+_❖ Automatización y Scripting_
 
 ➢ Automatización de tareas repetitivas con scripts en Python. 
 ➢ Uso de Selenium para pruebas automatizadas en navegadores. 
 ➢ Gestión de archivos y procesos del sistema de forma eficiente. 
 
-❖ Ciberseguridad y Hacking Ético 
+_❖ Ciberseguridad y Hacking Ético_ 
 
 ➢ Análisis de vulnerabilidades y pruebas de penetración con Scapy. 
 ➢ Creación de herramientas para monitoreo de seguridad. 
