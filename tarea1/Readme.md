@@ -1,13 +1,8 @@
 
-<<<<<<< HEAD
+
 # Rimas 
 =======
-<<<<<<<< HEAD:tarea1/Readme.m
-# Rimas 
-========
 
->>>>>>>> ff51fb6ef646db29c75fb6f0a410d6e1230dfd45:tarea1/Readme.md
->>>>>>> ff51fb6ef646db29c75fb6f0a410d6e1230dfd45
 
   ## Encontrar las palabras que terminan las letras dadas
 
