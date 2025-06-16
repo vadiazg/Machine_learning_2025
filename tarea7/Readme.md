@@ -1,6 +1,6 @@
 
 
-# Machine-learning-aplicado-a-6000-datos-de-Maestria-en-Ingenieria- 
+# algoritmo KMenas y ejemplo básico. Machine-learning-aplicado-a-6000-datos-de-Maestria-en-Ingenieria- 
 
 _Acelerador de iones ligeros para BNCT. Ahora, para aprovechar los 6000 datos que se tomaron en el laboratorio de voltaje en la bandeja electrolítica, podemos aplicar los algoritmos que aprendimos hemos aprendido._ 
 
